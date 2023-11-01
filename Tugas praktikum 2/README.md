@@ -2,7 +2,7 @@
 
 ## Flowchartnya
 
-![Alt text](image-1.png)
+![Alt text](photo1698823823.jpeg)
 
 ## kode programnya
 
